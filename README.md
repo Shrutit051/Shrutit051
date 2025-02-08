@@ -1,10 +1,11 @@
-Oh wow! Thank you for landing on my profile! 🎀
-Hello, I'm Shruti Thakur👋
-🚀 Passionate about Computers, tech and science
-📚 Exploring DSA, OS, and life
-💡 Building cool projects in hackathons and ideathons 
+# Hello, I'm Shruti Thakur👋<br>
+Oh wow! Thank you for landing on my profile! 🎀<br>
 
-# ✨ Fun Fact  
+🚀 Passionate about Computers, tech and science<br>
+📚 Exploring DSA, OS, and life<br>
+💡 Building cool projects in hackathons and ideathons <br>
+
+## ✨ Fun Fact  
 I love reading books, meditaing, cats(you must have guessed that from the pfp), trakking, and art!
 
 ## 🌐 Connect with Me  
