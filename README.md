@@ -7,22 +7,42 @@ Hello, I'm Shruti Thakur👋
 # ✨ Fun Fact  
 I love reading books, meditaing, cats(you must have guessed that from the pfp), trakking, and art!
 
-## 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shruti-thakur-432604292/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/Shrutit051/)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/shrutitb161/profile)  
-[![Codolio](https://img.shields.io/badge/Codolio-blueviolet?logo=codesandbox)](https://codolio.io/Shrutit051)
+## 🌐 Connect with Me  
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/your-username/)  
+[![GeeksforGeeks](https://img.shields.io/badge/GfG-green?logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/your-username/profile)  
+[![Codolio](https://img.shields.io/badge/Codolio-lightgrey?logo=codesandbox)](https://codolio.com/your-username)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Shrutit051)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrutit051&show_icons=true&theme=radical)
 
-# 🛠 Skills & Technologies  
-![Java](https://img.shields.io/badge/Java-red?logo=java&logoColor=white)  
-![C](https://img.shields.io/badge/C-blue?logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-lightblue?logo=c%2B%2B&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-yellow?logo=firebase&logoColor=white)
+
+## Visitor's count 👀  
+![Visitor Count](https://komarev.com/ghpvc/?username=Shrutit051&label=Profile%20Views&color=green&style=plastic)
+## 📈 GitHub Stats  
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shrutit051&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shrutit051&show_icons=true&theme=dark" />
+</p>
+## 🔥 Profile Stats  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrutit051&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shrutit051&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shrutit051&theme=github_dark" />
+</p>
+
+
+
+## 🛠 Languages and Tools:  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" width="50" />
+</p>
+
 <!--
 **Shrutit051/Shrutit051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
