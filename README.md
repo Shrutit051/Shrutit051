@@ -7,7 +7,7 @@ Thank you for landing on my profile! 🎀<br>
 💡 Building cool projects in hackathons and ideathons <br>
 
 ## ✨ Fun Fact  
-I love reading books, meditaing, cats(you must have guessed that from the pfp), trakking, and art!
+I love reading books, meditating, cats(you must have guessed that from the pfp), trekking, and art!
 
 <!-- 
  ## 🌐 Connect with Me  
