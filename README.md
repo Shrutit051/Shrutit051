@@ -8,17 +8,27 @@ Oh wow! Thank you for landing on my profile! 🎀<br>
 ## ✨ Fun Fact  
 I love reading books, meditaing, cats(you must have guessed that from the pfp), trakking, and art!
 
-## 🌐 Connect with Me  
+<!-- 
+ ## 🌐 Connect with Me  
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/your-username/)  
 [![GeeksforGeeks](https://img.shields.io/badge/GfG-green?logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/your-username/profile)  
 [![Codolio](https://img.shields.io/badge/Codolio-lightgrey?logo=codesandbox)](https://codolio.com/your-username)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Shrutit051)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Shrutit051) 
+--> 
+## 🌐 Connect with Me  
+🔸 [LeetCode](https://leetcode.com/your-username/)  
+🔹 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/your-username/profile)  
+⚡ [Codolio](https://codolio.com/your-username)  
+💼 [LinkedIn](https://www.linkedin.com/in/yourprofile/)  
+🐙 [GitHub](https://github.com/Shrutit051)  
 
 
+## 👀 Visitor's Count  
+![Visitor Count](https://komarev.com/ghpvc/?username=Shrutit051&color=green&style=flat)
+<img src="https://hitwebcounter.com/counter/counter.php?page=Shrutit051&style=0007&nbdigits=7&type=page&initCount=0" />
 
-## Visitor's count 👀  
-![Visitor Count](https://komarev.com/ghpvc/?username=Shrutit051&label=Profile%20Views&color=green&style=plastic)
+
 ## 📈 GitHub Stats  
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shrutit051&theme=dark" />
