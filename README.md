@@ -18,7 +18,7 @@ I love reading books, meditating, cats(you must have guessed that from the pfp),
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Shrutit051) 
 --> 
 ## 🌐 Connect with Me  
-[LeetCode](https://leetcode.com/your-username/) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/your-username/profile) | [Codolio](https://codolio.com/your-username) | [LinkedIn](https://www.linkedin.com/in/yourprofile/) | [GitHub](https://github.com/Shrutit051)  
+[LeetCode](https://leetcode.com/Shrutit051/) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/shrutib161/profile) | [Codolio](https:/Shrutit051/codolio.com) | [LinkedIn](https://www.linkedin.com/in/shruti-thakur-432604292/) | [GitHub](https://github.com/Shrutit051)  
 
 
 ## 👀 Visitor's Count  
