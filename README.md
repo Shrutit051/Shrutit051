@@ -1,5 +1,5 @@
 # Hello, I'm Shruti Thakur👋<br>
-Infosys Ideathon'24 winner | NEP Saarthi | CCOEW'27 | Graphics team @ACM-W CCEW | 2x hackathon finalist | The Happy Hours<br>
+Infosys Ideathon'24 winner | NEP Saarthi | CCOEW'27 | Head of Executive and Graphics team member @ACM-W CCEW | 2x hackathon finalist | The Happy Hours<br>
 Thank you for landing on my profile! 🎀<br>
 
 🚀 Passionate about Computers, tech and science<br>
