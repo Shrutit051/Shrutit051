@@ -31,6 +31,7 @@ I love reading books, meditating, cats, trekking, and art!
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shrutit051&theme=dark" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shrutit051&show_icons=true&theme=dark" />
 </p>
+
 ## 🔥 Profile Stats  
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shrutit051&theme=github_dark" />
